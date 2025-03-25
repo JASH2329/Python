@@ -1,3 +1,4 @@
-**Package Required 
-1) ipykernel
-2) Numpy
+## Package Required 
+ipykernel
+Numpy
+Pandas
