@@ -3,3 +3,4 @@ ipykernel
 Numpy
 Pandas
 matplotlib
+seaborn
